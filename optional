@@ -1,2 +1,10 @@
-optional is changed on remote 
-Edited on remote
+<<<<<<< .mine
+optional is changed on remorte is false written
+on local changed
+Conflict is waited
+||||||| .r1434
+optional is changed on remorte 
+=======
+optional is changed on remorte - here is not true
+is eited on local
+>>>>>>> .r1435
