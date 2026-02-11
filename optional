@@ -1,6 +1,7 @@
 optional is changed on remote 
 conflict is waited - remote
 edited on remote
+<<<<<<< HEAD
 <<<<<<< .mine
 optional is changed on remorte is false written
 on local changed
@@ -11,3 +12,5 @@ optional is changed on remorte
 optional is changed on remorte - here is not true
 is eited on local
 >>>>>>> .r1435
+=======
+>>>>>>> main
